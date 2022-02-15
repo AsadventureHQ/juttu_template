@@ -33,7 +33,7 @@ https://www.pinterest.com/juttu_official/
 Vous recevez cette lettre d'information parce que vous vous êtes inscrit(e) chez Juttu.
 
 [ + ] Désabonnez-vous simplement ?
-https://www.juttu.be/nl/account/unsubscribe.html?&uuid=<%= recipient.account %>&type=email_newsletter&link=footer_signout_nvt_nvt_nvt&utm_source=<%= delivery.nature %>&utm_medium=email&utm_campaign=<%= delivery.deliveryCode %>
+https://www.juttu.be/fr/account/unsubscribe.html?&uuid=<%= recipient.account %>&type=email_newsletter&link=footer_signout_nvt_nvt_nvt&utm_source=<%= delivery.nature %>&utm_medium=email&utm_campaign=<%= delivery.deliveryCode %>
 
 [ + ] Lisez notre Vie privée :
 https://www.juttu.be/fr/legals/privacy-policy.html
